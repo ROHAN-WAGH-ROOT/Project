@@ -1,0 +1,13 @@
+.tabClass {
+	min-height: 0 !important;
+	height: 22px !important;
+	background-color: #ff6600 !important;
+}
+.tabClassFirst {
+	min-height: 0 !important;
+	height: 22px !important;
+	background-color: #ff6600 !important;
+	font-weight: bold;
+	color: black;
+	font-size: 15px;
+}
